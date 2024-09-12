@@ -1,0 +1,13 @@
+*{
+    margin: 0; /* margem */
+    padding: 0; /* espaçamento */
+    box-sizing: border-box; /* nenhum elemento vai sair da sua caixa */
+}
+
+body{
+    background-color: #f58883;
+}
+
+header .container{
+    
+}
